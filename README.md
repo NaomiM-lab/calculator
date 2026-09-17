@@ -1,3 +1,6 @@
+1.Visual studio codeインストールしてください。 2.Visual studio codeの拡張機能にあるJavaをインストールしてください。 3.電卓アプリ/src/App02.javaを開いてください。 4.ファイルを実行してください。GUIが表示されます。 
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
